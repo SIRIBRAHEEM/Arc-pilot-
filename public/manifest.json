@@ -1,0 +1,16 @@
+{
+  "name": "ArcPilot",
+  "short_name": "ArcPilot",
+  "description": "AI crypto copilot built on Arc Testnet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080D",
+  "theme_color": "#07080D",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ]
+}
