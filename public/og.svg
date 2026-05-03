@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07080D"/>
+  <circle cx="220" cy="80" r="280" fill="#315CFF" opacity="0.32"/>
+  <circle cx="980" cy="90" r="260" fill="#8D7DFF" opacity="0.25"/>
+  <circle cx="860" cy="570" r="220" fill="#00E4A8" opacity="0.18"/>
+  <rect x="72" y="72" width="1056" height="486" rx="48" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.12"/>
+  <rect x="112" y="112" width="86" height="86" rx="26" fill="white"/>
+  <path d="M133 173L153.6 130H160.4L181 173H169.8L166 164.5H148L144.2 173H133Z" fill="#07080D"/>
+  <path d="M151.8 155.8H162.2L157 144.2L151.8 155.8Z" fill="#8D7DFF"/>
+  <text x="112" y="280" fill="white" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-4">
+    ArcPilot
+  </text>
+  <text x="112" y="355" fill="white" fill-opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="500">
+    AI Crypto Copilot on Arc
+  </text>
+  <text x="112" y="430" fill="white" fill-opacity="0.48" font-family="Inter, Arial, sans-serif" font-size="26">
+    Ask. Review. Execute. Powered by Arc Testnet and USDC.
+  </text>
+  <rect x="112" y="470" width="190" height="46" rx="23" fill="#7EF3C4"/>
+  <text x="139" y="501" fill="#07080D" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">
+    Arc Testnet
+  </text>
+  <rect x="318" y="470" width="154" height="46" rx="23" fill="white" fill-opacity="0.1"/>
+  <text x="346" y="501" fill="white" fill-opacity="0.82" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">
+    USDC Gas
+  </text>
+</svg>
